@@ -47,6 +47,10 @@
   &__menu-content {
     display: none;
 
+    &--is-visible {
+      display: block;
+    }
+
     @mixin atMedium {
       display: block;
     }

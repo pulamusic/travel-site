@@ -1162,6 +1162,10 @@ a {
     display: none;
   }
 
+.site-header__menu-content--is-visible {
+      display: block;
+    }
+
 @media (min-width: 800px) {
 
 .site-header__menu-content {
